@@ -60,7 +60,7 @@ After enabling GitHub Pages, access the live website here:
 
 
 
-https://Mukhtiar-1090.github.io/event-management-webapp/
+https://mukhtiar-1090.github.io/event-management-webapp/
 
 
 ---
