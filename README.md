@@ -37,3 +37,50 @@ It is designed to be responsive, user-friendly, and visually appealing.
 ---
 
 ## 📂 Project Structure
+event-management-webapp/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+
+
+---
+
+## 🚀 How to Run the Project Locally
+1. Download or clone the repository
+2. Open the project folder
+3. Double-click `index.html`  
+   **OR**
+4. Open the folder in VS Code and use **Live Server**
+
+---
+
+## 🌐 Live Demo (GitHub Pages)
+After enabling GitHub Pages, access the live website here:
+
+
+
+https://Mukhtiar-1090.github.io/event-management-webapp/
+
+
+---
+
+## 🧪 Functional Requirements Covered
+✔ DOM manipulation  
+✔ Dynamic event rendering  
+✔ Form validation with warnings  
+✔ Search and filtering  
+✔ Date-based styling (past vs upcoming events)  
+✔ Responsive layout using CSS Grid/Flexbox  
+
+---
+
+## 📌 Notes
+- No external libraries or frameworks were used
+- Pure JavaScript implementation
+- Designed according to assignment rubric
+
+---
+
+## © Footer Credit
+© 2025 **Mukhtiar Ahmad** — All Rights Reserved
